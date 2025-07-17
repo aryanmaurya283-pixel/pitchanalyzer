@@ -1,0 +1,12 @@
+
+streamlit
+PyPDF2
+python-pptx
+docx2txt
+nltk
+scikit-learn
+textstat
+plotly
+python-docx
+supabase
+python-dotenv
